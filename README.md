@@ -4,7 +4,7 @@
 
 
 
-<<<<<<< HEAD
+    <<<<<<< HEAD
 # NEW CHANGES FROM LOCAL
 
 # NEW CHANGES FROM LOCL PART 2
